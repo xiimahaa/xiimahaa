@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Maha
+# Hi there, I'm Maha 🌟
 
 💻 **Student at [IAU](https://www.iau.edu.sa)** | Passionate about coding, web development & AI | Open for collaboration 🤝
 
